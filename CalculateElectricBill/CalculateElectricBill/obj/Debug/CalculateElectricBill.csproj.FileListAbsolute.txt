@@ -1,0 +1,12 @@
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\CalculateElectricBill\CalculateElectricBill\bin\Debug\CalculateElectricBill.exe.config
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\CalculateElectricBill\CalculateElectricBill\bin\Debug\CalculateElectricBill.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\CalculateElectricBill\CalculateElectricBill\bin\Debug\CalculateElectricBill.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\CalculateElectricBill\CalculateElectricBill\obj\Debug\CalculateElectricBill.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\CalculateElectricBill\CalculateElectricBill\obj\Debug\CalculateElectricBill.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\CalculateElectricBill\CalculateElectricBill\obj\Debug\CalculateElectricBill.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\Weekly Project CureMd\first week 3-06-22\CalculateElectricBill\CalculateElectricBill\bin\Debug\CalculateElectricBill.exe.config
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\Weekly Project CureMd\first week 3-06-22\CalculateElectricBill\CalculateElectricBill\obj\Debug\CalculateElectricBill.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\Weekly Project CureMd\first week 3-06-22\CalculateElectricBill\CalculateElectricBill\obj\Debug\CalculateElectricBill.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\Weekly Project CureMd\first week 3-06-22\CalculateElectricBill\CalculateElectricBill\bin\Debug\CalculateElectricBill.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\Weekly Project CureMd\first week 3-06-22\CalculateElectricBill\CalculateElectricBill\bin\Debug\CalculateElectricBill.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2012\Projects\Weekly Project CureMd\first week 3-06-22\CalculateElectricBill\CalculateElectricBill\obj\Debug\CalculateElectricBill.csprojResolveAssemblyReference.cache
